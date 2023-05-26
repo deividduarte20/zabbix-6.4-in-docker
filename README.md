@@ -6,9 +6,15 @@
 ```bash
 git clone https://github.com/zabbix/zabbix-docker.git
 ```
+
 ## Mude para a versão necessária:
 ```bash
 git checkout 6.4
+```
+
+## Entre no diretório:
+```bash
+cd zabbix-6.4-in-docker
 ```
 
 ## Arquivo de configuração do compose, criação e inicialização dos containers:
